@@ -56,4 +56,4 @@ We want to do everything we can to help you be successful while working on your 
 ### Reference Material
 
 - [Optimism Documentation](https://docs.optimism.io)
-- [Optimism Help Center](https://help.optimism.io)
+- [Optimism Help Center](https://community.optimism.io/#faqs)
